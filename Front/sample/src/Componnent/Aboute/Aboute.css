@@ -1,0 +1,41 @@
+.about-container-2{
+    display: flex;
+    flex-direction: row;
+}
+.about-left{
+    display: flex;
+   
+    width: 50%;
+    height: 500px;
+    flex-direction: row;
+}
+.about-right{
+    display: flex;
+    width: 50%;
+    height: 500px;
+    flex-direction: column;
+}
+.Ab-img-1{
+    position: relative;
+    border-radius: 140px;
+    height: 50%;
+    margin: 50px;
+    bottom: 25px;
+}
+.Ab-img-2{
+    margin-left: 50px;
+    margin-top: -50px;
+    width: 55%;
+    left: 50px;
+    
+}
+.Ab-img-3{
+    display: flex;
+    border-radius: 140px 140px 0px 140px;
+    height: 90%;
+    margin: 15px;
+   
+}
+.left-bottom{
+    opacity: 0.07;
+}

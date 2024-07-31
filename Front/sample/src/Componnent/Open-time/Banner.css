@@ -1,0 +1,36 @@
+.banner-img-1 {}
+
+.banar-1 {
+    position: relative;
+    height: 50px;
+
+    top: 50px;
+
+}
+
+.btxt-1 {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    bottom: 70px;
+    left: 60px;
+    font-size: 20px;
+    color: azure;
+}
+
+.btxt-2 {
+
+    position: relative;
+    left: 60px;
+    font-size: 30px;
+    color: rgb(10, 14, 14);
+}
+
+.banner-2 {
+    border: 5px solid seagreen;
+    background-image: url('src/assets/img-3.jpeg');
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 98%;
+}
